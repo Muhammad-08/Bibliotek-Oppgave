@@ -1,0 +1,187 @@
+[
+    {
+        "tittel": "The Fellowship of the Ring",
+        "forfatter": "J.R.R Tolkien",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Two Towers",
+        "forfatter": "J.R.R Tolkien",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Return of the King",
+        "forfatter": "J.R.R Tolkien",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and The Sorceres Stone ",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Chamber of Secrets",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Prisoner of Azkaban",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Goblet of Fire",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Order of the Phoenix",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Half-Blood Prince",
+        "forfatter": "J.K Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Deathly Hallows",
+        "forfatter": "J.K Rowling ",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Harry Potter and the Chamber of Secrets",
+        "forfatter": "J.K. Rowling",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Hitchhiker's Guide to the Galaxy",
+        "forfatter": "Douglas Adams",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Moby Dick",
+        "forfatter": "Herman Melville",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Pride and Prejudice",
+        "forfatter": "Jane Austen",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "To Kill a Mockingbird",
+        "forfatter": "Harper Lee",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Great Gatsby",
+        "forfatter": "F. Scott Fitzgerald",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "War and Peace",
+        "forfatter": "Leo Tolstoy",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "One Hundred Years of Solitude",
+        "forfatter": "Gabriel García Márquez",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Crime and Punishment",
+        "forfatter": "Fyodor Dostoevsky",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Jane Eyre",
+        "forfatter": "Charlotte Brontë",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Catcher in the Rye",
+        "forfatter": "J.D. Salinger",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Brave New World",
+        "forfatter": "Aldous Huxley",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Wuthering Heights",
+        "forfatter": "Emily Brontë",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Picture of Dorian Gray",
+        "forfatter": "Oscar Wilde",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Frankenstein",
+        "forfatter": "Mary Shelley",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Secret History",
+        "forfatter": "Donna Tartt",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Siddhartha",
+        "forfatter": "Hermann Hesse",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Name of the Wind",
+        "forfatter": "Patrick Rothfuss",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Norwegian Wood",
+        "forfatter": "Haruki Murakami",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Beloved",
+        "forfatter": "Toni Morrison",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Road",
+        "forfatter": "Cormac McCarthy",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Fahrenheit 451",
+        "forfatter": "Ray Bradbury",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Dracula",
+        "forfatter": "Bram Stoker",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Catch-22",
+        "forfatter": "Joseph Heller",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Little Women",
+        "forfatter": "Louisa May Alcott",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "The Alchemist",
+        "forfatter": "Paulo Coelho",
+        "status": "Tilgjengelig"
+    },
+    {
+        "tittel": "Life of Pi",
+        "forfatter": "Yann Martel",
+        "status": "Tilgjengelig"
+    }
+    ]
